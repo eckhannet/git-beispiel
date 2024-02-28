@@ -1,0 +1,1 @@
+Dieses ist die erste Textdatei für GIT
