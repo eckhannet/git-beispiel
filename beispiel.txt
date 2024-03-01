@@ -1,1 +1,3 @@
 Dieses ist die erste Textdatei für GIT
+
+dieser Zustand ist am 1.3.2024 12:51 entstanden
