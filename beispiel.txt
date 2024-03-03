@@ -2,3 +2,5 @@ Dieses ist die erste Textdatei für GIT
 diese Änderung wurde im Hauptzweig durchgeführt 19:25
 dieser Zustand ist am 1.3.2024 12:51 entstanden
 dies Eintragung wurde im Zeig neuerZweig wu 19:19 eingefügt
+
+diese Änderung ist in zweig1 am 3.3. 18:18 durchgeführt
