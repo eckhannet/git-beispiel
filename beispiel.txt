@@ -6,3 +6,6 @@ dies Eintragung wurde im Zeig neuerZweig wu 19:19 eingefügt
 diese Änderung ist in zweig1 am 3.3. 18:18 durchgeführt
 
 diese Änderung wurde in zweeig1 am 4.3. 18:44 durchgeführt
+
+
+diese Änderung habe ich im meinZweig durchgeführt 18.03. 18:07
